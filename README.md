@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyuTatsukiSama
 - 👀 I’m interested in video game development 
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning too many things at the same time
 - 💞️ I’m looking to collaborate on video game related project
 - 📫 How to reach me ryutatsuki on Discord
 - 😄 Pronouns: He/His
