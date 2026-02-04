@@ -6,9 +6,13 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am still a student in the Créajeux School in France
 
-<table border="1" align="center">
+<table border="0" align="center">
   <tr align="center">
-    <th width="100">Sunday</th>
+    <th><p><strong>Languages</strong> </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,py" /></br>
+    <img src="https://skillicons.dev/icons?i=go,html,css,bash,md" />
+  </a></th>
     <th width="100">Monday</th>
     <th width="100">Tuesday</th>
     <th width="100">Wednesday</th>
