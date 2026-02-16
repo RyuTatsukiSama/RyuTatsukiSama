@@ -22,19 +22,19 @@
     </th>
     <th><p><strong>IDE</strong> </p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
+        <img src="https://skillicons.dev/icons?i=visualstudio,vscode" /></br>
         <img src="https://skillicons.dev/icons?i=rider,pycharm" />
       </a>
     </th>
     <th><p><strong>OS</strong> </p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=windows,linux" />
+        <img src="https://skillicons.dev/icons?i=windows,linux" /></br>
         <img src="https://skillicons.dev/icons?i=ubuntu" />
       </a>
     </th>
     <th><p><strong>Tools</strong> </p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github" />
+        <img src="https://skillicons.dev/icons?i=git,github" /></br>
         <img src="https://skillicons.dev/icons?i=postman,cmake" />
       </a>
     </th>
@@ -42,7 +42,7 @@
   <tr align="center">
     <td><p><strong>Devops</strong> </p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+        <img src="https://skillicons.dev/icons?i=prometheus,grafana" /></br>
         <img src="https://skillicons.dev/icons?i=docker,jenkins" />
       </a>
     </td>
@@ -58,7 +58,7 @@
     </td>
     <td width=200><p><strong>Social Network</strong> </p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=discord,linkedin" />
+        <img src="https://skillicons.dev/icons?i=discord,linkedin" /></br>
         <img src="https://skillicons.dev/icons?i=gmail" />
       </a>
     </td>
