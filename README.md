@@ -9,44 +9,59 @@
 <table border="0" align="center">
   <tr align="center">
     <th><p><strong>Languages</strong> </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,py" /></br>
-    <img src="https://skillicons.dev/icons?i=go,html,css,bash,md" />
-  </a></th>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,py" /></br>
+        <img src="https://skillicons.dev/icons?i=go,html,css,bash,md" />
+      </a>
+    </th>
     <th><p><strong>Engine & Framework</strong> </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal" /></br>
-    <img src="https://skillicons.dev/icons?i=qt" />
-  </a></th>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=unity,unreal" /></br>
+        <img src="https://skillicons.dev/icons?i=qt" />
+      </a>
+    </th>
     <th><p><strong>IDE</strong> </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
-    <img src="https://skillicons.dev/icons?i=rider,pycharm" />
-  </a></th>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
+        <img src="https://skillicons.dev/icons?i=rider,pycharm" />
+      </a>
+    </th>
     <th><p><strong>OS</strong> </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
-    <img src="https://skillicons.dev/icons?i=ubuntu" /></th>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=windows,linux" />
+        <img src="https://skillicons.dev/icons?i=ubuntu" />
+      </a>
+    </th>
     <th><p><strong>Tools</strong> </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
-    <img src="https://skillicons.dev/icons?i=postman,cmake" /></th>
-        </tr>
-    <tr align="center">
-    <th><p><strong>Devops</strong> </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-    <img src="https://skillicons.dev/icons?i=docker,jenkins" /></th>
-    <th><p><strong>BDD</strong> </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" /></th>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github" />
+        <img src="https://skillicons.dev/icons?i=postman,cmake" />
+      </a>
+    </th>
+  </tr>
+  <tr align="center">
+    <td><p><strong>Devops</strong> </p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+        <img src="https://skillicons.dev/icons?i=docker,jenkins" />
+      </a>
+    </td>
+    <td><p><strong>BDD</strong> </p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+      </a>
+    </td>
     <td><p><strong>Design</strong> </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,blender" /></td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=figma,blender" />
+      </a>
+    </td>
     <td width=200><p><strong>Other</strong> </p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,discord" />
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin,obsidian" /></td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=notion,discord" />
+        <img src="https://skillicons.dev/icons?i=gmail,linkedin,obsidian" />
+      </a>
+    </td>
   </tr>
 </table>
 
