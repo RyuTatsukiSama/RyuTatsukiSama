@@ -56,10 +56,15 @@
         <img src="https://skillicons.dev/icons?i=figma,blender" />
       </a>
     </td>
-    <td width=200><p><strong>Other</strong> </p>
+    <td width=200><p><strong>Social Network</strong> </p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=notion,discord" />
-        <img src="https://skillicons.dev/icons?i=gmail,linkedin,obsidian" />
+        <img src="https://skillicons.dev/icons?i=discord,linkedin" />
+        <img src="https://skillicons.dev/icons?i=gmail" />
+      </a>
+    </td>
+    <td width=200><p><strong>Organization</strong> </p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=notion,obsidian" />
       </a>
     </td>
   </tr>
