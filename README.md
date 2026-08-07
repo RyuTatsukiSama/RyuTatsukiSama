@@ -1,4 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Dorian%20Ribault&desc=Tools%20and%20Gameplay%20Programmer&descAlignY=55&fontAlignY=40&animation=fadeIn)
+<div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4558cf,50:ca55bd,100:ffcc70&text=Dorian%20Ribault&desc=Tools%20and%20Gameplay%20Programmer&descAlignY=55&fontAlignY=40&animation=fadeIn&fontColor=F7F7F7&section=header"/>
+
+  <h1>Statistic<h1/>
+  <img height=249em src="https://github-stats-extended.vercel.app/api?username=RyuTatsukiSama&show_icons=true&include_all_commits=true&theme=ambient_gradient"/>
+  <img height=249em src="https://github-stats-extended.vercel.app/api/top-langs?username=RyuTatsukiSama&layout=donut&langs_count=5&theme=ambient_gradient"/>
+  <img width=100% height=249em src="https://github-stats-extended.vercel.app/api/wakatime?username=ffb6dfe1-8330-4f05-8d2c-e660ded1d757&langs_count=6&theme=ambient_gradient"/>
+
+<h1>Skills</h1>
 
 <table border="0" align="center">
   <tr align="center">
@@ -63,6 +71,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 <!---
 RyuTatsukiSama/RyuTatsukiSama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
