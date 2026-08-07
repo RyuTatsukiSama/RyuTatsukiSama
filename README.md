@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @RyuTatsukiSama
-- 👀 I’m interested in video game development
-- 🌱 I’m currently learning too many things at the same time
-- 💞️ I’m looking to collaborate on video game related project
-- 📫 How to reach me ryutatsuki on Discord
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I am still a student in the Créajeux School in France
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Dorian%20Ribault&desc=Tools%20and%20Gameplay%20Programmer&descAlignY=55&fontAlignY=40&animation=fadeIn)
 
 <table border="0" align="center">
   <tr align="center">
