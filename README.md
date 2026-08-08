@@ -74,6 +74,16 @@
 
 </div>
 
+# Presentation
+
+- 👋 Hi, I’m @RyuTatsukiSama
+- 👀 I’m interested in video game development 
+- 🌱 I’m currently learning Web Developement
+- 💞️ I’m looking to collaborate on video game related project
+- 📫 How to reach me ryutatsuki on Discord
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I'm a big fan of T1
+
 <!---
 RyuTatsukiSama/RyuTatsukiSama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
