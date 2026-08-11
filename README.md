@@ -1,90 +1,33 @@
-<div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4558cf,50:ca55bd,100:ffcc70&text=Dorian%20Ribault&desc=Tools%20and%20Gameplay%20Programmer&descAlignY=55&fontAlignY=40&animation=fadeIn&fontColor=F7F7F7&section=header"/>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ryutatsukisama&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=ryutatsukisama&theme=neon" alt="ryutatsukisama profile hero" /></picture>
+</p>
 
-  <h1>Statistic<h1/>
-  <img width=58% src="https://github-stats-extended.vercel.app/api?username=RyuTatsukiSama&show_icons=true&include_all_commits=true&theme=ambient_gradient"/>
-  <img width=40% src="https://github-stats-extended.vercel.app/api/top-langs?username=RyuTatsukiSama&layout=donut&langs_count=5&theme=ambient_gradient"/>
-  <img width=100% height=249em src="https://github-stats-extended.vercel.app/api/wakatime?username=ffb6dfe1-8330-4f05-8d2c-e660ded1d757&langs_count=6&theme=ambient_gradient"/>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=ryutatsukisama&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=ryutatsukisama&theme=neon" alt="About ryutatsukisama" /></picture>
+</p>
 
-<h1>Skills</h1>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ryutatsukisama&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=ryutatsukisama&theme=neon" alt="Language stack" /></picture>
+</p>
 
-<table border="0" align="center">
-  <tr align="center">
-    <th><p><strong>Languages</strong> </p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,py" /></br>
-        <img src="https://skillicons.dev/icons?i=go,html,css,bash,md" />
-      </a>
-    </th>
-    <th><p><strong>Engine & Framework</strong> </p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=unity,unreal" /></br>
-        <img src="https://skillicons.dev/icons?i=qt" />
-      </a>
-    </th>
-    <th><p><strong>IDE</strong> </p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=visualstudio,vscode" /></br>
-        <img src="https://skillicons.dev/icons?i=rider,pycharm" />
-      </a>
-    </th>
-    <th><p><strong>OS</strong> </p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=windows,linux" /></br>
-        <img src="https://skillicons.dev/icons?i=ubuntu" />
-      </a>
-    </th>
-    <th><p><strong>Tools</strong> </p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github" /></br>
-        <img src="https://skillicons.dev/icons?i=postman,cmake" />
-      </a>
-    </th>
-  </tr>
-  <tr align="center">
-    <td><p><strong>Devops</strong> </p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=prometheus,grafana" /></br>
-        <img src="https://skillicons.dev/icons?i=docker,jenkins" />
-      </a>
-    </td>
-    <td><p><strong>BDD</strong> </p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-      </a>
-    </td>
-    <td><p><strong>Design</strong> </p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma,blender" />
-      </a>
-    </td>
-    <td width=200><p><strong>Social Network</strong> </p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=discord,linkedin" /></br>
-        <img src="https://skillicons.dev/icons?i=gmail" />
-      </a>
-    </td>
-    <td width=200><p><strong>Organization</strong> </p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=notion,obsidian" />
-      </a>
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ryutatsukisama&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=ryutatsukisama&theme=neon" alt="GitHub Stats" /></picture>
+</p>
 
-# Presentation
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ryutatsukisama&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=ryutatsukisama&theme=neon" alt="ryutatsukisama featured projects" /></picture>
+</p>
 
-- 👋 Hi, I’m @RyuTatsukiSama
-- 👀 I’m interested in video game development 
-- 🌱 I’m currently learning Web Developement
-- 💞️ I’m looking to collaborate on video game related project
-- 📫 How to reach me ryutatsuki on Discord
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm a big fan of T1
+## 🤝 Connect With Me
 
-<!---
-RyuTatsukiSama/RyuTatsukiSama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ryutatsukisama&theme=neon&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=ryutatsukisama&theme=neon" alt="ryutatsukisama social links" /></picture>
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryutatsukisama)
+
+---
+
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
